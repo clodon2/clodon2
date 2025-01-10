@@ -1,3 +1,10 @@
 - 👋 Hi, I’m Corey
-- Student at JRTI, Coding & App and Game design
-- CoreyVerkouteren2023@JamesRumsey.net
+- Computer Science Undergraduate at Marietta College '27
+- Graduate from James Rumsey Technical Institute, Coding & App and Game design
+- csv002@marietta.edu
+- 
+- Some cool projects:
+- 2D Cellular Automata Racing Game https://github.com/clodon2/SkillsUSA-Final
+- AI Object Identifier https://github.com/clodon2/AI-Object_Identifier
+- 3D Robotic Arm Simulator https://github.com/clodon2/LeArmSimulator
+- Playstyle Analyzer for Rocket League Players https://github.com/clodon2/RL-Playstyle-Analyzer
