@@ -4,6 +4,7 @@
 - csv002@marietta.edu
 - 
 - Some cool projects:
+- Top Healthcare Provider Detection with Sheaf Laplacian https://github.com/clodon2/GSU-REU
 - 2D Cellular Automata Racing Game https://github.com/clodon2/SkillsUSA-Final
 - AI Object Identifier https://github.com/clodon2/AI-Object_Identifier
 - 3D Robotic Arm Simulator https://github.com/clodon2/LeArmSimulator
