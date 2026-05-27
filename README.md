@@ -9,4 +9,4 @@
 - 2D Cellular Automata Racing Game https://github.com/clodon2/SkillsUSA-Final
 - 3D Robotic Arm Simulator https://github.com/clodon2/LeArmSimulator
 - AI Object Identifier https://github.com/clodon2/AI-Object_Identifier
-- Playstyle Analyzer for Rocket League Players https://github.com/clodon2/RL-Playstyle-Analyzer
+- Genetic Algorithm Plant Simulation https://github.com/clodon2/3D-Plant-Simulation
