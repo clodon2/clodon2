@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Corey
 - Computer Science Undergraduate at Marietta College '27
-- Graduate from James Rumsey Technical Institute, Coding & App and Game design
+- Graduate from James Rumsey Technical Institute, Coding & App and Game Design
 - csv002@marietta.edu
 - 
 - Some cool projects:
